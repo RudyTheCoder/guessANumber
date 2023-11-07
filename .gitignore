@@ -1,0 +1,21 @@
+#ignore word files
+*.docx
+
+#ignore Text files
+*.txt
+
+#ignore PDF Files
+*.pdf
+
+#ignore Png files
+*.png
+
+#ignore other directory
+other/
+
+#ignore log files
+*.log
+
+#ignore DS Store
+.DS_Store
+
